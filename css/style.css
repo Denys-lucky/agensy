@@ -238,8 +238,6 @@ button{
 
 .services__btn{
     display: inline-block;
-    position: absolute;
-    top: 1550px;
     text-decoration: none;
     width: 150px;
     height: 40px;
